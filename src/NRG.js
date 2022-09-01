@@ -1,6 +1,10 @@
-class Pixels {
+import test from './test'
+
+test();
+
+class NRG {
 	/**
-	 * Sets up the pixels class.
+	 * Sets up the NRG class.
 	 * @param {HTMLElement} dom - The dom element to append the canvas to.
 	 */
 	constructor (dom) {
